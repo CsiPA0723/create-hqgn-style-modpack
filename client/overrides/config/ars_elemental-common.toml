@@ -65,6 +65,8 @@
 	#Define the refresh rate of the Squirrel Ritual buff, in ticks.
 	#Range: > 1
 	squirrelRefreshRate = 600
+	#If enabled, soulbound enchantment can appear in randomly enchanted loot chests.
+	soulbound_loot = true
 
 [Mobs-Disabled]
 	#If true, the wandering mages will target players too, unless they wear the focus of the same school.
