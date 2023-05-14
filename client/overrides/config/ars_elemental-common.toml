@@ -72,3 +72,12 @@
 	#If true, the wandering mages will target players too, unless they wear the focus of the same school.
 	magesAggro = true
 
+#Adjust Elemental Armor Mana Buffs
+["Elemental Armors"]
+	#Max mana bonus for each elemental armor piece
+	#Range: 0 ~ 10000
+	armorMaxMana = 100
+	#Mana regen bonus for each elemental armor piece
+	#Range: 0 ~ 100
+	armorManaRegen = 4
+
